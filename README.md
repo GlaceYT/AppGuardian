@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="https://i.ibb.co/GfTxbJfC/7-edited.png" alt="Banner" width="100%"/>
+</div>
+
+
+<div align="center">
 
 # 🛡️ App Guardian
 
