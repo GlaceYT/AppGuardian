@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Device Hub monitors system performance and manages app compatibility. This service is required for optimal device operation.</string>
+    <string name="device_admin_description">Device Hub uses device administrator privileges to ensure system integrity and protect core services.</string>
+</resources>
